@@ -1,16 +1,22 @@
-## Hi there 👋
+# Benvinguts al meu GitHub 👋
 
-<!--
-**samalluis/samalluis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre mi
+Em dic Lluís Garcia Martínez, sóc estudiant de Sistemas Microinformatics i Xarxes Locals a l'Escola Pia Santa Anna. Actualment estic aprenent sobre desenvolupament web, sistemes, seguretat informatica, documentació tècnica.
 
-Here are some ideas to get you started:
+## Què trobaràs aquí
+Aquest repositori és el meu espai de presentació i pràctica. Aquí hi trobaràs:
+- Exercicis i projectes relacionats amb el curs
+- Documentació en format Markdown
+- Propostes tècniques i comparatives de serveis digitals
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Objectius
+El meu objectiu és millorar les meves habilitats en:
+- Programació, gestió de sistemes, estructurament de una xarxa, etc... (una mica de tot el que te a veure amb el mon de la tecnologia)
+- Redacció tècnica clara i estructurada
+- Ús de GitHub com a eina professional
+
+## Contacte
+Correu d’escola: alu.lluis.garcia@mataro.epiaedu.cat
+Correu personal: lluisgarciamartinez2006@gmail.com
+
+Gràcies per visitar el meu perfil!
