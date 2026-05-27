@@ -1,8 +1,9 @@
 
 <!-- Banner animado de bienvenida -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=24&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=800&lines=Hola%2C+soy+Lluis Garcia!;Desarrollador+en+formaci%C3%B3n+%F0%9F%8E%AE;Futuro+creador+de+Videojuegos+"Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=24&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=800&lines=Hola%2C+soy+Lluis Garcia!;Desarrollador+en+formaci%C3%B3n+%F0%9F%8E%AE;Futuro+creador+de+Videojuegos+" Typing SVG />
 </p>
+
 
 <!-- Banner de videojuegos -->
 <p align="center">
