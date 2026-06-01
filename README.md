@@ -77,6 +77,12 @@ Estudiante de 2º curso del Ciclo Formativo de Grado Medio en Sistemas Microinfo
   </a>
 </p>
 
+> Discord: samalluis
+
+> Gmail personal: lluisgarciamartinez2006@gmail.com
+
+> Gmail academic: alu.lluis.garcia@mataro.epiaedu.cat
+
 ---
 
 <!-- Footer animado -->
